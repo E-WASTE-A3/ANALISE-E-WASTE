@@ -12,7 +12,7 @@ O avanço tecnológico e o aumento no consumo de eletrônicos resultam em um vol
 
 [DATASET]()
 
-[Apresentação]()
+[Apresentação](https://docs.google.com/presentation/d/1PTvTR0BeHcjduf-5Mwyaz4vX_m93B61-k3wLM5Mt8es/edit#slide=id.g2d55714aff8_0_45)
 
 Os Scripts etão ordenados na ordem sugerida, no entanto eles foram apenas utilizados para construir a planilha de [dados](https://docs.google.com/spreadsheets/d/1priwDe7UXDmy9nzbXKZTDhQG9_NOB6FZafhcmQLOTfU/edit#gid=587864036) que já está disponibilizada no [link](https://docs.google.com/spreadsheets/d/1priwDe7UXDmy9nzbXKZTDhQG9_NOB6FZafhcmQLOTfU/edit#gid=587864036).
 
