@@ -4,10 +4,6 @@ Trabalho da disciplina de Inteligência Artificial - Bacharelado Ciência da Com
 
 O avanço tecnológico e o aumento no consumo de eletrônicos resultam em um volume crescente de resíduos, como celulares e baterias, que contêm substâncias tóxicas prejudiciais ao meio ambiente e à saúde humana. Estudos indicam uma urgente necessidade de iniciativas para o descarte correto desses materiais. Em resposta a essa demanda, o projeto propõe um sistema de coleta inteligente que incentiva o descarte consciente e recompensa consumidores por práticas sustentáveis. Dessa forma, visa-se promover um ciclo de benefícios ambientais e sociais, contribuindo para uma economia circular e um futuro mais sustentável.
 
-[Categorização para Discussão de Colunas]()
-
-[Planilha de Artigos e Literatura]()
-
 [Dados]()
 
 [DATASET]()
