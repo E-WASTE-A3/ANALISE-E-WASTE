@@ -8,7 +8,7 @@ O avanço tecnológico e o aumento no consumo de eletrônicos resultam em um vol
 
 [DATASET](https://drive.google.com/drive/folders/1A09SQVUXiQzEmTszgKxvI7gifyS2qZYU?usp=sharing)
 
-[Apresentação](https://docs.google.com/presentation/d/1PTvTR0BeHcjduf-5Mwyaz4vX_m93B61-k3wLM5Mt8es/edit#slide=id.g2d55714aff8_0_45)
+[Apresentação](https://github.com/E-WASTE-A3/ANALISE-E-WASTE/blob/main/An%C3%A1lise%20e%20Previs%C3%A3o%20de%20Res%C3%ADduos%20Eletr%C3%B4nicos.pptx.pdf)
 
 Os Scripts etão ordenados na ordem sugerida, no entanto eles foram apenas utilizados para construir a planilha de [dados](https://docs.google.com/spreadsheets/d/1priwDe7UXDmy9nzbXKZTDhQG9_NOB6FZafhcmQLOTfU/edit#gid=587864036) que já está disponibilizada no [link](https://docs.google.com/spreadsheets/d/1priwDe7UXDmy9nzbXKZTDhQG9_NOB6FZafhcmQLOTfU/edit#gid=587864036).
 
